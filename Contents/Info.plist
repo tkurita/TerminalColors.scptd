@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleGetInfoString</key>
-	<string>2.1 copyright 2003-2010, Tetsuro KURITA</string>
+	<string>2.2 copyright 2003-2012, Tetsuro KURITA</string>
 	<key>CFBundleHelpBookFolder</key>
-	<string>TerminalColorsHelp</string>
+	<string>TerminalColors Help</string>
 	<key>CFBundleHelpBookName</key>
 	<string>TerminalColors Help</string>
 	<key>CFBundleIdentifier</key>
 	<string>Scriptfactory.TerminalColors</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.1</string>
+	<string>2.2</string>
 	<key>CFBundleVersion</key>
-	<string>2.1</string>
+	<string>2.2</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>copyright 2003-2010, Tetsuro KURITA</string>
+	<string>copyright 2003-2012, Tetsuro KURITA</string>
 	<key>WindowState</key>
 	<dict>
 		<key>dividerCollapsed</key>
@@ -29,7 +29,7 @@
 		<key>savedFrame</key>
 		<string>3 233 859 645 0 0 1440 878 </string>
 		<key>selectedTabView</key>
-		<string>description</string>
+		<string>event log</string>
 	</dict>
 </dict>
 </plist>
